@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(44, 52, 84);
+}
+
+p.styleAnswerText{
+    margin-top: 50px;
+}
+
+.styleTextP{
+    text-decoration: none;
+    letter-spacing: .5px;
+}
+
+.headernav {
+    background-color: rgb(112, 222, 202);
+}
+
+.atur {
+    position: absolute;
+}
